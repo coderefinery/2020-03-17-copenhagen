@@ -5,30 +5,27 @@ include: workshop
 # location and address
 # you can also link to a map using e.g. openstreetmap, for example:
 # location: "<a https://www.openstreetmap.org/node/1771739362">Teknikringen 14, 11428 Stockholm</a>
-location: "Room X, Department of Y, University of Z"    
-address: "ADDRESS"
-city: CITY
+location: Copenhagen
+address: TBD
+city: Copenhagen
 
 # date and time
 time: "9:00 - 17:00"    
-dates: "October 16-18, 2019"   
+dates: "March 17-19, 2020"   
 
 # Add link to registration form here and specify when the registration opens and whether it is closed
-registration_form: 
-registration_open_date: September 30, 2019
+registration_form: https://indico.neic.no/event/117/
+registration_open_date: January 27, 2020
 registration_is_closed: true
 
 # names of instructors and helpers
 instructors: 
- - Instructor 1
- - Instructor 2
- - Instructor 3
+ - TBD
 helpers: 
- - Helper 1
- - Helper 2
+ - TBD
 
 # contact email address
-contact: instructor1@university.com
+contact: support@coderefinery.org
 
 # normally no need to modify this
 goals:
@@ -65,17 +62,17 @@ schedule:
   - date: Day 1
     morning:
       - time: 9:00 - 9:30
-        title: Welcome and practical information (Instructor 1)
+        title: Welcome and practical information (TBD)
         url: https://github.com/coderefinery/workshop-intro/blob/master/README.md
       - time: 9:30 - 12:00
-        title: Introduction to version control - part 1/2 (Instructor 1)
+        title: Introduction to version control - part 1/2 (TBD)
         url: https://coderefinery.github.io/git-intro/
     afternoon:
       - time: 13:00 - 15:00
-        title: Introduction to version control - part 2/2 (Instructor 2)
+        title: Introduction to version control - part 2/2 (TBD)
         url: https://coderefinery.github.io/git-intro/
       - time: 15:30 - 17:00
-        title: Social coding and open software (Instructor 2)
+        title: Social coding and open software (TBD)
         url: https://cicero.xyz/v3/remark/0.14.0/github.com/coderefinery/social-coding/master/talk.md
   - date: Day 2
     morning:
