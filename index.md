@@ -65,7 +65,7 @@ schedule:
   - date: Day 1
     morning:
       - time: 9:00 - 9:30
-        title: Welcome and practical information (TBD)
+        title: Welcome and practical information (Radovan)
         url: https://github.com/coderefinery/workshop-intro/blob/master/README.md
       - time: 9:30 - 12:00
         title: Introduction to version control - part 1/2 (Thor)
@@ -95,20 +95,20 @@ schedule:
   - date: Day 3
     morning:
       - time: 9:00 - 10:30
-        title: Documentation (TBA)
+        title: Documentation (Radovan)
         url: https://coderefinery.github.io/documentation/
       - time: 11:00 - 12:00
-        title: Automated testing part 1/2 (TBA)
+        title: Automated testing part 1/2 (Radovan)
         url: https://coderefinery.github.io/testing/
     afternoon:
       - time: 13:00 - 14:00
-        title: Automated testing part 2/2 (TBA)
+        title: Automated testing part 2/2 (Radovan)
         url: https://coderefinery.github.io/testing/
       - time: 14:30 - 16:30
         title: Jupyter (Emiliano)
         url: https://coderefinery.github.io/jupyter/
       - time: 16:30 - 17:00
-        title: Concluding remarks and where to go from here (TBA)
+        title: Concluding remarks and where to go from here (Radovan)
         url: https://github.com/coderefinery/workshop-outro/blob/master/README.md
 
 ---
