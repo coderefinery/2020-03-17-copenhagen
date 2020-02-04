@@ -83,11 +83,11 @@ schedule:
         title: Modular code development (Max)
         url: https://cicero.xyz/v3/remark/0.14.0/github.com/coderefinery/modular-code-development/master/talk.md
       - time: 11:00 - 12:00
-        title: Collaborative distributed version control 1/2 (TBA)
+        title: Collaborative distributed version control 1/2 (Emiliano)
         url: https://coderefinery.github.io/git-collaborative/
     afternoon:
       - time: 13:00 - 14:30
-        title: Collaborative distributed version control 2/2 (TBA)
+        title: Collaborative distributed version control 2/2 (Emiliano)
         url: https://coderefinery.github.io/git-collaborative/
       - time: 15:00-17:00
         title: Reproducible research and FAIR data (Thor)
@@ -105,7 +105,7 @@ schedule:
         title: Automated testing part 2/2 (TBA)
         url: https://coderefinery.github.io/testing/
       - time: 14:30 - 16:30
-        title: Jupyter (TBA)
+        title: Jupyter (Emiliano)
         url: https://coderefinery.github.io/jupyter/
       - time: 16:30 - 17:00
         title: Concluding remarks and where to go from here (TBA)
