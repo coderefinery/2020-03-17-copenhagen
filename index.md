@@ -20,7 +20,10 @@ registration_is_closed: false
 
 # names of instructors and helpers
 instructors: 
- - TBD
+ - Radovan Bast
+ - Max R. Eckardt
+ - Emiliano Molinaro
+ - Thor Wikfeldt
 helpers: 
  - TBD
 
@@ -65,11 +68,11 @@ schedule:
         title: Welcome and practical information (TBD)
         url: https://github.com/coderefinery/workshop-intro/blob/master/README.md
       - time: 9:30 - 12:00
-        title: Introduction to version control - part 1/2 (TBD)
+        title: Introduction to version control - part 1/2 (Thor)
         url: https://coderefinery.github.io/git-intro/
     afternoon:
       - time: 13:00 - 15:00
-        title: Introduction to version control - part 2/2 (TBD)
+        title: Introduction to version control - part 2/2 (Thor)
         url: https://coderefinery.github.io/git-intro/
       - time: 15:30 - 17:00
         title: Social coding and open software (TBD)
@@ -87,7 +90,7 @@ schedule:
         title: Collaborative distributed version control 2/2 (TBA)
         url: https://coderefinery.github.io/git-collaborative/
       - time: 15:00-17:00
-        title: Reproducible research and FAIR data (TBA)
+        title: Reproducible research and FAIR data (Thor)
         url: https://coderefinery.github.io/reproducible-research/
   - date: Day 3
     morning:
