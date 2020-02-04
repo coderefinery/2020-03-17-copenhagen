@@ -19,7 +19,7 @@ registration_open_date: February 10, 2020
 registration_is_closed: false
 
 # names of instructors and helpers
-instructors: 
+instructors:
  - Radovan Bast
  - Max R. Eckardt
  - Emiliano Molinaro
@@ -75,12 +75,12 @@ schedule:
         title: Introduction to version control - part 2/2 (Thor)
         url: https://coderefinery.github.io/git-intro/
       - time: 15:30 - 17:00
-        title: Social coding and open software (TBD)
+        title: Social coding and open software (Max)
         url: https://cicero.xyz/v3/remark/0.14.0/github.com/coderefinery/social-coding/master/talk.md
   - date: Day 2
     morning:
       - time: 9:00 - 10:30
-        title: Modular code development (TBA)
+        title: Modular code development (Max)
         url: https://cicero.xyz/v3/remark/0.14.0/github.com/coderefinery/modular-code-development/master/talk.md
       - time: 11:00 - 12:00
         title: Collaborative distributed version control 1/2 (TBA)
