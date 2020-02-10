@@ -6,7 +6,7 @@ include: workshop
 # you can also link to a map using e.g. openstreetmap, for example:
 # location: "<a https://www.openstreetmap.org/node/1771739362">Teknikringen 14, 11428 Stockholm</a>
 location: Copenhagen
-address: TBD
+address: DTU campus, more details soon
 city: Copenhagen
 
 # date and time
