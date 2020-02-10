@@ -14,7 +14,7 @@ time: "9:00 - 17:00"
 dates: "March 17-19, 2020"   
 
 # Add link to registration form here and specify when the registration opens and whether it is closed
-# registration_form: https://indico.neic.no/event/117/
+registration_form: https://indico.neic.no/event/117/
 registration_open_date: February 10, 2020
 registration_is_closed: false
 
