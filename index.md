@@ -25,7 +25,9 @@ instructors:
  - Emiliano Molinaro
  - Thor Wikfeldt
 helpers: 
- - TBD
+ - David Gray Marchant
+ - Rasmus Munk
+ - Elise Otterlei Brenne
 
 # contact email address
 contact: support@coderefinery.org
