@@ -91,7 +91,7 @@ schedule:
       - time: 13:00 - 14:30
         title: Collaborative distributed version control 2/2 (Emiliano)
         url: https://coderefinery.github.io/git-collaborative/
-      - time: 15:00-17:00
+      - time: 15:00 - 17:00
         title: Reproducible research and FAIR data (Thor)
         url: https://coderefinery.github.io/reproducible-research/
   - date: Day 3
