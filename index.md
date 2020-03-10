@@ -3,10 +3,8 @@ layout: master
 include: workshop
 
 # location and address
-# you can also link to a map using e.g. openstreetmap, for example:
-# location: "<a https://www.openstreetmap.org/node/1771739362">Teknikringen 14, 11428 Stockholm</a>
-location: Copenhagen
-address: DTU campus, more details soon
+location: Copenhagen, DTU campus
+address: <a href="https://goo.gl/maps/7pGSSdzNVUKjbXrb8">Akademivej, 2800 Kongens Lyngby, building 358</a>, room 914
 city: Copenhagen
 
 # date and time
